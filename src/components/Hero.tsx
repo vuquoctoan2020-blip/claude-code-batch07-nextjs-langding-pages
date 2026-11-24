@@ -11,7 +11,7 @@ export default function Hero() {
         </h1>
         <p className="mx-auto mt-6 max-w-2xl text-lg text-slate-400">
           Làm chủ Next.js và Tailwind CSS qua các dự án thực tế, sẵn sàng đi làm
-          chỉ sau 12 tuần.
+          chỉ sau 8 buổi học.
         </p>
         <div className="mt-10 flex flex-wrap justify-center gap-4">
           <a

@@ -1,5 +1,5 @@
 const benefits = [
-  { icon: "🚀", title: "Đi làm nhanh", desc: "Lộ trình 12 tuần tập trung kỹ năng doanh nghiệp cần." },
+  { icon: "🚀", title: "Đi làm nhanh", desc: "Lộ trình 8 buổi tập trung kỹ năng doanh nghiệp cần." },
   { icon: "🧩", title: "Dự án thực tế", desc: "Xây dựng 5+ sản phẩm hoàn chỉnh cho portfolio." },
   { icon: "👨‍🏫", title: "Mentor 1-1", desc: "Được review code và giải đáp thắc mắc mỗi tuần." },
   { icon: "♾️", title: "Học trọn đời", desc: "Truy cập video và tài liệu cập nhật vĩnh viễn." },
