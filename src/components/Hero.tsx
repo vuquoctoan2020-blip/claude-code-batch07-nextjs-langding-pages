@@ -6,8 +6,8 @@ export default function Hero() {
           Khóa học mới · Khai giảng tháng này
         </span>
         <h1 className="mt-6 text-4xl font-bold tracking-tight sm:text-6xl">
-          Học lập trình web <span className="text-primary">thực chiến</span>{" "}
-          từ con số 0
+          Trở thành <span className="text-primary">lập trình viên</span> trong 8
+          buổi
         </h1>
         <p className="mx-auto mt-6 max-w-2xl text-lg text-slate-400">
           Làm chủ Next.js và Tailwind CSS qua các dự án thực tế, sẵn sàng đi làm
